@@ -1,2 +1,2 @@
 # Markdown_image
-存储markown笔记中的图片
+- 这个仓库主要是用来存储使用Typora所记录的笔记中的图片
